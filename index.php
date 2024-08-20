@@ -37,7 +37,7 @@
 <header>
     <div id="menu" class="fas fa-bars"></div>
 
-    <a href="#" class="logo"><i class="fas fa-user-graduate"></i>LOGO</a>
+    <a href="#" class="logo"><i class="fas fa-user-graduate"></i>MyCollegeErp</a>
     <nav class="navbar">
         <ul>
             <li><a class="active" href="#home">Home</a></li>
