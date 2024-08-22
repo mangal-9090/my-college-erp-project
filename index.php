@@ -174,7 +174,8 @@
 <section class="contact">
     <h1 class="heading">contact us</h1>
     <div class="row">
-        <form action="">
+        <form action="https://api.web3forms.com/submit" method="POST">
+            <input type="hidden" name="access_key" value="0a254a56-b66a-4bbf-bb5f-0144b55bd94f">
             <input type="text" placeholder="full name" class="box">
             <input type="email" placeholder="your email" class="box">
             <input type="password" placeholder="your password" class="box">
