@@ -176,10 +176,10 @@
     <div class="row">
         <form action="https://api.web3forms.com/submit" method="POST">
             <input type="hidden" name="access_key" value="0a254a56-b66a-4bbf-bb5f-0144b55bd94f">
-            <input type="text" placeholder="full name" class="box">
-            <input type="email" placeholder="your email" class="box">
-            <input type="password" placeholder="your password" class="box">
-            <input type="number" placeholder="your number" class="box">
+            <input type="text" name="full name" placeholder="full name" class="box">
+            <input type="email" name="your email" placeholder="your email" class="box">
+            <input type="password" name="your password" placeholder="your password" class="box">
+            <input type="number" name="your number" placeholder="your number" class="box">
             <textarea name="" id="" cols="30" rows="10" class="box address" placeholder="your address"></textarea>
             <input type="submit" class="btn" value="send now">
         </form>
